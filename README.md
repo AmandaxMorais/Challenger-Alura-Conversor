@@ -1,18 +1,38 @@
-![](https://www.alura.com.br/assets/img/challenges/oracle-one/logo_oracleAlura-ptbr.svg)
+# Alura Challenge | Oracle One | Java - Conversor de Moeda
 
-# conversorAlura
-Conversor de Moedas e Temperaturas Alura
+<p align="center" >
+     <img width="600" heigth="600" src="https://user-images.githubusercontent.com/91544872/163815902-db1c4e2d-a6e8-4f9b-85fa-757fd0bda39c.png">
+</p>
 
-### Resultado do Challenge 01, Conversor de Moedas da Alura ONE
+### Seja bem vindo ao projeto base do Conversor de Moeda com Java! Passos fundamentais:
 
-Funcionalidades
-* Conversão de moedas
-  * Real para Dólar | Dólar para Real
-  * Real para Euro | Euro para Real
-  * Real para Libras Esterlinas | Libras Esterlinas para Real
-  * Real para Peso Argentino | Peso Argentino para Real
-  * Real para Peso Chileno | Peso Chileno para Real
+#### Marque esse projeto com uma estrela ⭐
+#### Siga as instruções das aulas e conteúdos 📚
+#### Visite a página do Challenge [Clicando aqui!](https://www.alura.com.br/challenges/oracle-one) 📃
+---
 
-* Conversão de temperatura
-  * Celsius para Fahrenheit
-  * Fahrenheit para real
+## Como listar o meu projeto neste Challenge?
+---
+
+1) Publique o projeto no GitHub
+2) Utilize o tópico:
+
+    - Turma 1: **challengeoneconversorbr**
+
+Vá na aba "Sobre" ou "About" do seu projeto no menu lateral que fica na esquerda dentro do repositório no GitHub
+Adicione a tag "**challengeoneconversorbr**"
+
+![gif-vitrine](https://user-images.githubusercontent.com/91544872/153601047-62aee6cb-e3cf-42b3-92c3-7130c996113f.gif)
+
+## Como realizar a entrega final do meu projeto?
+---
+
+3) Preenche o formulário de entrega com o **link do projeto publicado com GitHub Pages**
+🔹 [Link para o formulário](https://lp.alura.com.br/alura-latam-lp-entrega-de-challenge-one)
+
+![formulario-entrega](https://user-images.githubusercontent.com/91544872/153610784-525ff005-d667-43f1-adcc-155b5274d87b.png)
+
+4) Acesse seu e-mail e terá a sua Badge Exclusiva do Desafio 🏆
+5) Não se esqueça de publicar um link ou vídeo do seu projeto no Linkedin! 🏁
+
+    <a href="https://www.linkedin.com/company/alura-latam/mycompany/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>    
